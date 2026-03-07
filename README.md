@@ -28,6 +28,7 @@ Xây dựng mô hình **Multi-output Classifier** dự đoán **6 thuộc tính 
 │   ├── X_val.csv                    # Chuỗi hành động — tập kiểm định
 │   ├── Y_val.csv                    # Nhãn 6 thuộc tính — tập kiểm định
 │   └── X_test.csv                   # Chuỗi hành động — tập kiểm thử (không có nhãn)
+│   └── valid_Transformer.csv        # Kết quả dự đoán trên Valid với mô hình Transformer
 │
 ├── src/
 │   ├── 01_eda.ipynb                 # Phân tích khám phá dữ liệu (EDA)
