@@ -105,8 +105,8 @@ id, attr_1, attr_2, attr_3, attr_4, attr_5, attr_6
 
 | Mô hình | Val Exact-Match Accuracy | Ghi chú |
 |---|---|---|
-| LightGBM | — | Baseline, feature engineering thủ công |
-| GRU | — | Sequence model, xử lý chuỗi tuần tự |
-| **Transformer** | **—** | ⭐ Mô hình cuối, kiến trúc tốt nhất |
+| LightGBM | 0.9508 | Baseline, feature engineering thủ công |
+| GRU | 0.9990 | Sequence model, xử lý chuỗi tuần tự |
+| **Transformer** | **0.9993** | ⭐ Mô hình cuối, kiến trúc tốt nhất |
 
 
