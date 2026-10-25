@@ -1,8 +1,5 @@
 # 🏆 User Behavior Prediction — DATAFLOW 2026
 
-> **Bán kết DATAFLOW 2026 · The Alchemy of Minds**  
-> Câu lạc bộ Toán Tin HAMIC — Trường Đại học Khoa học Tự nhiên, ĐHQGHN
-
 ---
 
 ## 📋 Tổng quan bài toán
